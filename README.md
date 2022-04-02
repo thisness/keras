@@ -19,6 +19,10 @@
 # 목차
 
 
-1.아아아
+1.딥러닝이란 무엇인가
+
+![deep-learning-principle (1)](https://user-images.githubusercontent.com/32724882/161379015-01382a86-86d7-4d72-b4f6-ac8e687a17be.png)
+
+
 
 2.신경망의 수학적 구성요소
