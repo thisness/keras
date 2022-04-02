@@ -14,3 +14,11 @@
 - 깃허브 : https://github.com/rickiepark/deep-learning-with-python-notebooks
 - 블로그 : https://tensorflow.blog/
 
+
+
+# 목차
+
+
+1.아아아
+
+2.신경망의 수학적 구성요소
